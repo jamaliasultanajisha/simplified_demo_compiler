@@ -1,0 +1,16 @@
+Error at line 6 : Multiple declaration of c
+
+Error at line 7 : Non Integer Array Index
+
+Error at line 8 : Type mismatch
+
+Error at line 9 : Integer operand on modulus operator
+
+Error at line 10 : Type mismatch
+
+Error at line 11 : Type mismatch
+
+Error at line 12 : Undeclared variable b
+
+Total error count: 7 
+
